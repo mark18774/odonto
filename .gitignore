@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+=======
+node_modules
+dist
+.env
+.env.*
+>>>>>>> 85e41726899b22c72f160ecb4e481cb27807c19a
